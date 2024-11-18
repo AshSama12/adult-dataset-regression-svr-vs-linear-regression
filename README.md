@@ -32,7 +32,7 @@ The dataset used in this project is the Adult dataset from the UCI Machine Learn
 
 3. **Support Vector Regression (SVR)**:
    - Implemented using Scikit-learn's `SVR`.
-   - Compared different kernel functions (e.g., linear, polynomial, and radial basis function).
+   - Compared different kernel functions (e.g., linear, polynomial, and radial basis functions).
    - Evaluated using MSE and R² Score.
 
 4. **Comparison**:
