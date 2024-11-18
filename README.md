@@ -36,7 +36,7 @@ The dataset used in this project is the Adult dataset from the UCI Machine Learn
    - Evaluated using MSE and R² Score.
 
 4. **Comparison**:
-   - Compared the performance of both models using the same dataset.
+   - The performance of both models was compared using the same dataset.
 
 ## Results
 
