@@ -1,4 +1,4 @@
-# Adult Dataset Regression: SVR vs Linear Regression
+# Adult Dataset Regression: SVR vs Linear Regression.
 
 This project compares the performance of **Support Vector Regression (SVR)** and **Linear Regression** models on the **Adult dataset** from the UCI Machine Learning Repository. The goal is to predict whether an individual's income exceeds $50K/yr based on census data, and this analysis focuses on comparing regression techniques.
 
